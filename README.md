@@ -40,8 +40,10 @@ Code for test cases:
 using namespace std;
 
 int main(){
+
     int q,n,m;
     cin>>q>>n>>m;
+    
     int cnt = 0;
 
     cout<<q<<endl;

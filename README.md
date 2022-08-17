@@ -86,3 +86,8 @@ return 0;
 }
 
 
+Editorial:
+
+if the number of rows and columns are odd then it is not possible to reconstruct since odd number of squares are required. For even dimension checkerboard, if the removed square are diagonal to each other then the number of shaded and white squares will not be same so Bob can not construct such checkerboard also.
+
+
